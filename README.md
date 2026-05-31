@@ -1,6 +1,6 @@
-# Bonjour ! 🥖
+# Hello ! 
 
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+My name is Hlaing Thinn Phyu. I am a software developer having experience in web development and interested in analysis of system, product and data. 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
