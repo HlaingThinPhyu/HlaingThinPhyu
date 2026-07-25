@@ -1,6 +1,7 @@
 # Hello ! 
 
 My name is Hlaing Thinn Phyu. I am a software developer having experience in web development and interested in analysis of system, product and data. 
+Professional experience: Odoo ERP Developer-1 year & C# .NET Developer- 3.5 years
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes) -->
 <a name="tech-tools"></a>
@@ -76,7 +77,7 @@ My name is Hlaing Thinn Phyu. I am a software developer having experience in web
 
 <!-- ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://https://www.linkedin.com/in/hlaing-thinn-phyu/)
 
 -->
 
