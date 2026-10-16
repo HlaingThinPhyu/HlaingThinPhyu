@@ -1,7 +1,12 @@
- <!-- 🌌 Space-themed profile header -->
+<!-- 🌌 Space-themed profile header -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hlaing%20Thinn%20Phyu&fontSize=44&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Explorer&descSize=17&descAlignY=55&descAlign=50" width="100%" alt="Space-themed profile banner"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=200&section=header&text=Hlaing%20Thinn%20Phyu&fontSize=40" width="100%" alt="Hlaing Thinn Phyu profile banner"/>
+
 </div>
+
+
 
 <!-- 🚀 Typing animation -->
 <div align="center">
