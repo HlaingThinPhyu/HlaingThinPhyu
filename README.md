@@ -1,86 +1,163 @@
-# Hello ! 
+ <!-- 🌌 Space-themed profile header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hlaing%20Thinn%20Phyu&fontSize=44&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Explorer&descSize=17&descAlignY=55&descAlign=50" width="100%" alt="Space-themed profile banner"/>
+</div>
 
-My name is Hlaing Thinn Phyu. I am a software developer having experience in web development and interested in analysis of system, product and data. 
-Professional experience: Odoo ERP Developer-1 year & C# .NET Developer- 3.5 years
+<!-- 🚀 Typing animation -->
+<div align="center">
+  <a href="https://github.com/HlaingThinPhyu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Developer;Exploring+Data+Analytics+%26+Cloud+%26+AI;Building+with+Claude+Code+%26+AI+Tools;Turning+Ideas+into+Practical+Projects" alt="Typing animation"/>
+  </a>
+</div>
 
-<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes) -->
-<a name="tech-tools"></a>
-## 🛠  Technologies and tools
+<br/>
 
-<a name="learning-now"></a>
+## 👩‍🚀 About Me
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
-&nbsp;
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/.NET%20MVC-282C34?logo=.net&logoColor=512BD4" alt=".NET MVC logo" title=".NET MVC" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/.NET%20Core-282C34?logo=.net&logoColor=512BD4" alt=".NET Core logo" title=".NET Core" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MS%20SQL-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="MS SQL logo" title="MS SQL" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Notebook-282C34?logo=jupyter&logoColor=F37626" alt="Notebook logo" title="Notebook" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PowerBI-282C34?logo=microsoft-power-bi&logoColor=F2C811" alt="Power BI logo" title="Power BI" height="25" />][tech_tools_anchor]
+- 💻 Software Developer with **4+ years of experience** in software development.
+- ⚙️ Experienced in **C#, .NET, SQL Server, REST APIs, and enterprise systems**.
+- 📊 Exploring emerging tech in software, cloud, data analytics,and data visualization.
+- 🤖 Learning AI-assisted development with **Claude, Claude Code, and agentic workflows**.
+- ☁️ Working with cloud technologies, including Microsoft Azure,and AWS.
+- 🎓 Master's degree in Computer Science, Algoma University, Canada.
+- 🛠️ Building practical projects across software development, data, and AI.
 
-&nbsp;
+<br clear="right"/>
+
+<div align="center">
+
+  <a href="https://github.com/HlaingThinPhyu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://ca.linkedin.com/in/hlaing-thinn-phyu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.credly.com/users/hlaing-thinn-phyu/badges/credly">
+    <img src="https://img.shields.io/badge/Credly-View_Credentials-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly credentials"/>
+  </a>
+
+</div>
+
+---
+
+## 🛸 Tech Stack
+
+<div align="center">
+
+**💻 Software Development**
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+<img src="https://img.shields.io/badge/REST_APIs-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=00F5FF" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+**📊 Data & Analytics**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+**☁️ Cloud & DevOps**
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+**🤖 AI-Assisted Development**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Claude_Code-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/AI_Workflows-302B63?style=for-the-badge&logo=openai&logoColor=00F5FF" alt="AI workflows"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-1a1a2e?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+</div>
+
+---
+
+## 🎖️ Certification Constellation
+
+<div align="center">
+
+  <a href="https://www.credly.com/users/hlaing-thinn-phyu/badges/credly">
+    <img src="https://img.shields.io/badge/Credly-Explore_My_Badges-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="View all Credly badges"/>
+  </a>
+
+  <p>Click each credential below to view its verification page.</p>
+
+</div>
+
+<details open>
+<summary><b>🤖 Claude & AI Fluency</b></summary>
+
+<br/>
+
+| Credential | Focus | Verification |
+|:---|:---|:---:|
+| Claude 101 | Claude fundamentals | [Verify](https://verify.skilljar.com/c/odzbru9g3cok) |
+| AI Fluency: Framework & Foundations | AI fluency fundamentals | [Verify](https://verify.skilljar.com/c/t49g58zwazf6) |
+
+</details>
+
+<details open>
+<summary><b>⚡ Claude Code & Agentic Development</b></summary>
+
+<br/>
+
+| Credential | Focus | Verification |
+|:---|:---|:---:|
+| Claude Code 101 | Claude Code fundamentals | [Verify](https://verify.skilljar.com/c/27k4mi7ouot6) |
+| Claude Code in Action | Practical agentic coding workflows | [Verify](https://verify.skilljar.com/c/78k5oyniiqm7) |
+| Introduction to Agent Skills | Reusable AI agent capabilities | [Verify](https://verify.skilljar.com/c/kfnmyubu3i96) |
+| Introduction to MCP | Model Context Protocol fundamentals | [Verify](https://verify.skilljar.com/c/n664x3ck7bjs) |
+| Introduction to Subagents | Specialized agent workflows | [Verify](https://verify.skilljar.com/c/gcqod4iknau9) |
+
+</details>
+
+<details>
+<summary><b>☁️ Other Credentials</b></summary>
+
+<br/>
+
+Visit my [Credly profile](https://www.credly.com/users/hlaing-thinn-phyu/badges/credly) to explore my other digital badges and credentials.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/HlaingThinPhyu/skincare-bestie">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HlaingThinPhyu&repo=skincare-bestie&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Skincare Bestie project"/>
+</a>
+<a href="https://github.com/HlaingThinPhyu/DataAnalysisProject_GHG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HlaingThinPhyu&repo=DataAnalysisProject_GHG&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GHG Data Analysis project"/>
+</a>
+<a href="https://github.com/HlaingThinPhyu/EduBridge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HlaingThinPhyu&repo=EduBridge&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="EduBridge project"/>
+</a>
+<a href="https://github.com/HlaingThinPhyu/.NET_shoppingcart">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HlaingThinPhyu&repo=.NET_shoppingcart&theme=tokyonight&hide_border=true&bg_color=0D1117" alt=".NET Shopping Cart project"/>
+</a>
+
+</div>
+
+---
 
 
-<a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+---
 
-&nbsp;
-[<img src="https://img.shields.io/badge/Claude%20Code-282C34?logo=anthropic&logoColor=FFFFFF" alt="Claude Code logo" title="Claude Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/AI%20Tools-282C34?logo=robot&logoColor=FFFFFF" alt="AI Tools logo" title="AI Tools" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Data%20Analysis-282C34?logo=google-analytics&logoColor=34A853" alt="Data Analysis logo" title="Data Analysis" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Cloud-282C34?logo=cloudflare&logoColor=F38020" alt="Cloud logo" title="Cloud" height="25" />][tech_tools_anchor]
-
-## 👾  What I am interested in learning at some point
-
-[<img src="https://img.shields.io/badge/Product%20Management-282C34?logo=product-hunt&logoColor=FF3300" alt="Product Management logo" title="Product Management" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Cloud%20AI%20Services-282C34?logo=google-cloud&logoColor=4285F4" alt="Cloud AI Services logo" title="Cloud AI Services" height="25" />][learning_next_anchor]
-&nbsp;
-
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
-&nbsp;
-
-
-<!-- ## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://https://www.linkedin.com/in/hlaing-thinn-phyu/)
-
--->
-
-[tech_tools_anchor]: #tech-tools
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Space-themed footer"/>
+  <sub>Building, learning, and exploring one project at a time.</sub>
+</div>
